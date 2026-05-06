@@ -58,8 +58,8 @@
 | Campo | Valor |
 |---|---|
 | **Responsable** | Roger Jimenez |
-| **Contacto de Abuso** | asanchezm@fsimilares.com |
-| **Teléfono de Abuso** | +52 5554220157 |
+| **Contacto** | asanchezm@fsimilares.com |
+| **Teléfono** | +52 5554220157 |
 
 ### Puertos y Servicios Expuestos
 
